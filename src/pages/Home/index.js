@@ -1,7 +1,8 @@
 import React from 'react';
+import WorkingChrono from '~/components/WorkingChrono';
 
 const HomePage = () => {
-    return <div>HomePage</div>;
+    return <WorkingChrono />
 };
 
 export default HomePage;

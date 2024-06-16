@@ -5,7 +5,7 @@ import Upload from '~/pages/Upload';
 import HeaderOnlyLayout from '~/components/Layouts/HeaderOnlyLayout ';
 
 const publicRoutes = [
-    { path: '/', component: HomePage },
+    { path: '/', component: HomePage, layout: null },
     { path: '/following', component: Following },
     { path: '/profile', component: Profile },
     { path: '/upload', component: Upload, layout: null },
