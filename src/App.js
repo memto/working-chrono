@@ -1,28 +1,7 @@
 import { Chrono } from "react-chrono";
 
 import './App.css';
-
-const working_items = [
-  {
-    title: "January 2022",
-    cardTitle: "Event 1",
-    cardSubtitle: "Event 1 Subtitle",
-    cardDetailedText: "This is the first event on the timeline.",
-  },
-  {
-    title: "February 2022",
-    cardTitle: "Event 2",
-    cardSubtitle: "Event 2 Subtitle",
-    cardDetailedText: "This is the second event on the timeline.",
-  },
-  {
-    title: "March 2022",
-    cardTitle: "Event 3",
-    cardSubtitle: "Event 3 Subtitle",
-    cardDetailedText: "This is the third event on the timeline.",
-  }
-];
-
+import working_items from "./working_items";
 
 function App() {
   return (
@@ -30,13 +9,27 @@ function App() {
       <div className='WorkingChrono'>
         <Chrono
           items={working_items}
+          //== OUTLINE
+          // mode="VERTICAL"
           mode="VERTICAL_ALTERNATING"
+          // scrollable={{ scrollbar: false }}
+          timelinePointShape="diamond"
+          flipLayout="true"
+          //== TOOLBAR
+          // disableToolbar="true"
+          toolbarPosition="top"
+          enableDarkToggle="true"
+          enableLayoutSwitch="true"
+          enableQuickJump="true"
+          //== CARD
+          // cardHeight={600}
+          cardWidth={500}
+          // contentDetailsHeight={100}
           fontSizes={{
-            cardSubtitle: '0.85rem',
-            cardText: '0.8rem',
-            cardTitle: '1rem',
-            title: '1rem',
+            title: "1rem",
           }}
+          mediaHeight={300}
+          mediaSettings={{ align: "right", fit: "cover" }}
         />
       </div>
     </div>
