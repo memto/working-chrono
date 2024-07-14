@@ -22,7 +22,7 @@ const working_items = [
         },
         type: "IMAGE",
       },
-      cardSubtitle: `Started my career with embedded domain (mainly in C) with more than four years of experience coding at low-level (firmware, realtime OS, linux BSP...)`,
+      cardSubtitle: `I started my career with embedded domain (mainly in C) with more than four years of experience coding at low-level (firmware, real-time OS, Linux BSP ...)`,
       cardDetailedText: ``,
     },
     {
@@ -35,7 +35,7 @@ const working_items = [
         },
         type: "IMAGE",
       },
-      cardSubtitle: `I then try to shift my domain to higher layers such as: system programing (Cpp, Erlang/Elixir) or desktop app (QT)`,
+      cardSubtitle: `I then shift my domain to higher layers such as system programming (Cpp, Erlang/Elixir) or desktop apps (QT)`,
       cardDetailedText: ``,
     },
     {
@@ -49,7 +49,7 @@ const working_items = [
         },
         type: "IMAGE",
       },
-      cardSubtitle: `And now all about Cloud and Web technologies (REST API design, Microservices, Cloud-Native, Docker and K8S)`,
+      cardSubtitle: `And now all about Cloud and Web technologies (REST API design, Microservices, Cloud-Native, Docker, and K8S)`,
       cardDetailedText: ``,
     },
     {
@@ -59,11 +59,11 @@ const working_items = [
         name: "Leadership",
         source: {
           // url: "https://i.imgur.com/RMhTNw4.png",
-          url: "https://pasteboard.co/DxnSmbsGEybZ.png",
+          url: "https://raw.githubusercontent.com/memto/working-chrono/cra-init/public/leadership-full.png",
         },
         type: "IMAGE",
       },
-      cardSubtitle: `Proficient in programming and software development. But my true passionate is not about tech only but about people, I do like to build (not only to manage) a team with strong tech skill, high motivation, open/agile working mindset and close relationship.`,
+      cardSubtitle: `Proficient in programming and software development. But my true passion is not about tech but about people, I do like to build (not only to manage) a team with strong tech skills, high motivation, open/agile working mindset, and close relationships.`,
       cardDetailedText: ``,
     },
   ];
