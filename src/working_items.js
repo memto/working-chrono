@@ -58,7 +58,8 @@ const working_items = [
       media: {
         name: "Leadership",
         source: {
-          url: "https://i.imgur.com/RMhTNw4.png",
+          // url: "https://i.imgur.com/RMhTNw4.png",
+          url: "https://pasteboard.co/DxnSmbsGEybZ.png",
         },
         type: "IMAGE",
       },
