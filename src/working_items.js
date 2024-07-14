@@ -1,6 +1,6 @@
 const working_items = [
     {
-      title: "SEPT 2008",
+      title: "SEPT 2008 - The beginning",
       cardTitle: "HaNoi University of science and technology",
       media: {
         name: "HUST",
@@ -13,7 +13,7 @@ const working_items = [
       cardDetailedText: ``,
     },
     {
-      title: "Coding at the bottom (coding stack)",
+      title: "Coding low-level (coding stack)",
       cardTitle: "FPT Software - FPT",
       media: {
         name: "FPT Software",
@@ -22,7 +22,7 @@ const working_items = [
         },
         type: "IMAGE",
       },
-      cardSubtitle: `Coding at the bottom (firmware, realtime OS, linux BSP)`,
+      cardSubtitle: `Started my career with embedded domain (mainly in C) with more than four years of experience coding at low-level (firmware, realtime OS, linux BSP...)`,
       cardDetailedText: ``,
     },
     {
@@ -35,7 +35,7 @@ const working_items = [
         },
         type: "IMAGE",
       },
-      cardSubtitle: `Coding at the middle (application, system programming)`,
+      cardSubtitle: `I then try to shift my domain to higher layers such as: system programing (Cpp, Erlang/Elixir) or desktop app (QT)`,
       cardDetailedText: ``,
     },
     {
@@ -49,7 +49,7 @@ const working_items = [
         },
         type: "IMAGE",
       },
-      cardSubtitle: `Coding at the top (cloud, microservice)`,
+      cardSubtitle: `And now all about Cloud and Web technologies (REST API design, Microservices, Cloud-Native, Docker and K8S)`,
       cardDetailedText: ``,
     },
     {
@@ -62,7 +62,7 @@ const working_items = [
         },
         type: "IMAGE",
       },
-      cardSubtitle: `Leadership in between: PM, Teachlead, Manager`,
+      cardSubtitle: `Proficient in programming and software development. But my true passionate is not about tech only but about people, I do like to build (not only to manage) a team with strong tech skill, high motivation, open/agile working mindset and close relationship.`,
       cardDetailedText: ``,
     },
   ];
