@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/working-chrono/static/css/main.cd76bde8.css",
-    "main.js": "/working-chrono/static/js/main.d3e02915.js",
+    "main.js": "/working-chrono/static/js/main.ff79a9f6.js",
     "static/js/453.573ddd2f.chunk.js": "/working-chrono/static/js/453.573ddd2f.chunk.js",
     "index.html": "/working-chrono/index.html",
     "main.cd76bde8.css.map": "/working-chrono/static/css/main.cd76bde8.css.map",
-    "main.d3e02915.js.map": "/working-chrono/static/js/main.d3e02915.js.map",
+    "main.ff79a9f6.js.map": "/working-chrono/static/js/main.ff79a9f6.js.map",
     "453.573ddd2f.chunk.js.map": "/working-chrono/static/js/453.573ddd2f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd76bde8.css",
-    "static/js/main.d3e02915.js"
+    "static/js/main.ff79a9f6.js"
   ]
 }
