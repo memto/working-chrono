@@ -1,7 +1,7 @@
 const working_items = [
     {
       title: "SEPT 2008 - The beginning",
-      cardTitle: "HaNoi University of science and technology",
+      cardTitle: "Hanoi University of science and technology",
       media: {
         name: "HUST",
         source: {
