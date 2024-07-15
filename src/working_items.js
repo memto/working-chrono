@@ -59,7 +59,7 @@ const working_items = [
         name: "Leadership",
         source: {
           // url: "https://i.imgur.com/RMhTNw4.png",
-          url: "https://raw.githubusercontent.com/memto/working-chrono/cra-init/public/leadership-full.png",
+          url: "https://raw.githubusercontent.com/memto/working-chrono/working-chrono/public/leadership-full.png",
         },
         type: "IMAGE",
       },
