@@ -63,7 +63,7 @@ const working_items = [
         },
         type: "IMAGE",
       },
-      cardSubtitle: `Proficient in programming and software development. But my true passion is not about tech but about people, I do like to build (not only to manage) a team with strong tech skills, high motivation, open/agile working mindset, and close relationships.`,
+      cardSubtitle: `Proficient in programming and software development. But my true passion is not about tech only but also about people, I do like to build (not only to manage) a team with strong tech skills, high motivation, open/agile working mindset, and close relationships.`,
       cardDetailedText: ``,
     },
   ];
